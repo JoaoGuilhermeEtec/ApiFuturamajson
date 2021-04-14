@@ -1,0 +1,51 @@
+{
+    "Personagens":[
+      {
+        "id":1,
+        "nome": "Bender Bending Rodríguez",
+        "sexo":"Masculino",
+        "interpretado(a) por":"John DiMaggio"
+      },
+      {
+        "id":2,
+        "nome": "Philip J. Fry",
+        "sexo":"Masculino",
+        "interpretado(a) por":"Billy West"
+      }
+  
+    ],
+    "Dubladores":[
+      {
+        "id":1,
+        "Personagem": "Bender Bending Rodríguez",
+        "dublador":"Aldo César",
+        "interpretado(a) por":"John DiMaggio"
+        },
+        {
+        "id":2,
+        "Personagem": "Philip J. Fry",
+        "dublador":"Figueira Júnior",
+        "interpretado(a) por":"Billy West"
+        }
+    ],
+    "Musicas":[
+      {
+        "id":1,
+        "titulo": "My Broken Friend",
+        "cantor":"Bender",
+        "Ep": "Season 3, Episode 13 - Bendin' in the Wind"
+      },
+      {
+        "id":2,
+        "titulo": "The Bureaucrat Song",
+        "cantor":"Hermes Conrad",
+        "Ep": "Season 2 Episode 11, How Hermes Requisitioned His Groove Back"
+      },
+      {
+        "id":3,
+        "titulo": "Baby Got Back",
+        "cantor":"Sir Mix-a-Lot",
+        "Ep": "Season 1 Episode 6, A Fishful of Dollar"
+      }
+    ]
+  }
